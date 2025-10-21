@@ -1,0 +1,7 @@
+Pending works:-
+1)Knowledge Transfer Video on SaaS project blueprint and PPT presentation
+2)Knowledge Transfer video on jira tool
+3)adding the learned jira tool content to proedge document
+4)learning about the Docker tool and make a KT video on that
+5)Adding the training page in official website
+6)Creating roleds for our team and giving permissions
