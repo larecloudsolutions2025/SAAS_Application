@@ -24,5 +24,9 @@ Thumbs.db
 .vscode/
 .idea/
 
+# Ignore large files and video content
 Documents for Projects/Videos/
 *.mp4
+*.mov
+*.avi
+*.zip
